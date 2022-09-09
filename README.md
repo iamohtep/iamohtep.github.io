@@ -47,7 +47,16 @@ endstep0-->
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-
+<style>
+details > summary {
+  padding: 4px;
+  width: 200px;
+  background-color: #eeeeee;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+}
+</style>
 <details id=1>
 <summary>
 
