@@ -1,1 +1,0 @@
-# iamohtep.github.io
