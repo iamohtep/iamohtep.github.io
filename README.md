@@ -49,7 +49,7 @@ endstep0-->
 -->
 
 <details id=1>
-<summary><h2>Step 1: Enable GitHub Pages</h2></summary>
+<summary><h4>Step 1: Enable GitHub Pages</h4></summary>
 
 _Welcome to GitHub Pages and Jekyll :tada:!_
 
@@ -73,7 +73,7 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
 -->
 
 <details id=2>
-<summary><h2>Step 2: Configure your site</h2></summary>
+<summary><h4>Step 2: Configure your site</h4></summary>
 
 _You turned on GitHub Pages! :tada:_
 
@@ -105,7 +105,7 @@ We need to use a blog-ready theme. For this activity, we will use a theme named 
 -->
 
 <details id=3>
-<summary><h2>Step 3: Customize your homepage</h2></summary>
+<summary><h4>Step 3: Customize your homepage</h4></summary>
 
 _Nice work setting the theme! :sparkles:_
 
@@ -130,7 +130,7 @@ You can customize your homepage by adding content to either an `index.md` file o
 -->
 
 <details id=4>
-<summary><h2>Step 4: Create a blog post</h2></summary>
+<summary><h4>Step 4: Create a blog post</h4></summary>
 
 _Your home page is looking great! :cowboy_hat_face:_
 
@@ -177,7 +177,7 @@ For more information about configuring front matter, see the [Jekyll frontmatter
 -->
 
 <details id=5>
-<summary><h2>Step 5: Merge your pull request</h2></summary>
+<summary><h4>Step 5: Merge your pull request</h4></summary>
 
 _Nice work, friend :heart:! People will be reading your blog in no time!_
 
@@ -196,8 +196,8 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X open>
-<summary><h2>Finish</h2></summary>
+<details id=X>
+<summary><h4>Finish</h4></summary>
 
 _Congratulations friend, you've completed this course!_
 
